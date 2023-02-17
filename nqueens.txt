@@ -37,4 +37,7 @@ Elapsed time: 604.732763 seconds
 
 
 
+
+
 removed the solutions for 12 queens
+removed the solutions for 14 queens
