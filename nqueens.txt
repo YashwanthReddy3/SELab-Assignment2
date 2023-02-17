@@ -16,24 +16,6 @@ Number of solutions: 724
 Elapsed time: 0.020937 seconds
 Number of solutions: 724
 Elapsed time: 0.018399 seconds
-Number of solutions: 14200
-Elapsed time: 0.391538 seconds
-Number of solutions: 14200
-Elapsed time: 0.401040 seconds
-Number of solutions: 14200
-Elapsed time: 0.411206 seconds
-Number of solutions: 14200
-Elapsed time: 0.407601 seconds
-Number of solutions: 14200
-Elapsed time: 0.406503 seconds
-Number of solutions: 14200
-Elapsed time: 0.406961 seconds
-Number of solutions: 14200
-Elapsed time: 0.413118 seconds
-Number of solutions: 14200
-Elapsed time: 0.410723 seconds
-Number of solutions: 14200
-Elapsed time: 0.408731 seconds
 Number of solutions: 365596
 Elapsed time: 13.276715 seconds
 Number of solutions: 365596
@@ -70,3 +52,7 @@ Number of solutions: 14772512
 Elapsed time: 604.855647 seconds
 Number of solutions: 14772512
 Elapsed time: 604.732763 seconds
+
+
+
+removed the solutions for 12 queens
